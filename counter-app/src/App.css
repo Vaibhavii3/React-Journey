@@ -1,0 +1,13 @@
+body{
+  background:linear-gradient(90deg, #914242, #a756a7);
+}
+
+h1, h2 {
+  color: white;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
