@@ -1,0 +1,32 @@
+body {
+  background:  linear-gradient(90deg, #f7a9e4, #7d1e65);
+}
+
+h1 {
+  color: white;
+}
+input {
+  padding: 10px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  color: white;
+}
