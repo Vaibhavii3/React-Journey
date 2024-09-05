@@ -6,4 +6,5 @@ Welcome to **React Journey**! This repository is a collection of mini-projects a
 
 1. [Counter App](#counter-app)
 2. [Todo App](#todo-app)
+3. [Simple Form](#simple-form)
 
