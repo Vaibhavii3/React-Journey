@@ -8,4 +8,5 @@ Welcome to **React Journey**! This repository is a collection of mini-projects a
 2. [Todo App](#todo-app)
 3. [Simple Form](#simple-form)
 4. [Accordion ui](#accordion-ui)
+5. [Image Filter](#image-filter)
 
